@@ -1,0 +1,11 @@
+server:
+     port: 8888
+
+hello:
+     msg: hello world
+     msg2: Hello World
+     
+world: 我是最棒的
+
+
+
