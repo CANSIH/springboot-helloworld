@@ -18,8 +18,8 @@ public class HelloWorldController {
 		//int i = 1 / 0;
 		/*String s = null;
 		s.length();*/
-		throw new ApplicationException("服务器溜走了，请稍后再试");
-//		return this.msg;
+		// throw new ApplicationException("服务器溜走了，请稍后再试");
+		return this.msg;
 	}
 
 }
