@@ -1,4 +1,4 @@
-package com.bjsxt.location;
+package com.hecg.location;
 
 /**
  * 功能：根据经纬度计算两地距离

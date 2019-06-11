@@ -1,4 +1,4 @@
-package com.bjsxt.springboothelloworld;
+package com.hecg.springboothelloworld;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
