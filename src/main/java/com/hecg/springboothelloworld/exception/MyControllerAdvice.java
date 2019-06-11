@@ -1,4 +1,4 @@
-package com.bjsxt.springboothelloworld.exception;
+package com.hecg.springboothelloworld.exception;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -35,7 +35,7 @@ public class MyControllerAdvice {
 	}
 
 	@ResponseBody
-	@ExceptionHandler(value = com.bjsxt.springboothelloworld.exception.ApplicationException.class)
+	@ExceptionHandler(value = com.hecg.springboothelloworld.exception.ApplicationException.class)
 	public Map<String, Object> myException3(Exception ex) {
 		Map<String, Object> map = new HashMap<String, Object>();
 		map.put("code", -800);

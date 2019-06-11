@@ -1,4 +1,4 @@
-package com.bjsxt.springboothelloworld;
+package com.hecg.springboothelloworld;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

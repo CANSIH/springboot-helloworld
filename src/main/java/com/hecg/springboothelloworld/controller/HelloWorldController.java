@@ -1,11 +1,11 @@
-package com.bjsxt.springboothelloworld.controller;
+package com.hecg.springboothelloworld.controller;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.ApplicationContextException;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.bjsxt.springboothelloworld.exception.ApplicationException;
+import com.hecg.springboothelloworld.exception.ApplicationException;
 
 @RestController
 public class HelloWorldController {

@@ -1,4 +1,4 @@
-package com.bjsxt.springboothelloworld.exception;
+package com.hecg.springboothelloworld.exception;
 
 /**
  * 功能：自定义异常类，继承RuntimeException
